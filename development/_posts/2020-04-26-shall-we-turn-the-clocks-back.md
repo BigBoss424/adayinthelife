@@ -1,0 +1,12 @@
+---
+layout: post
+title: Shall We Turn The Clocks Back, Today?
+date: 20-04-26
+categories: [Day In The Life]
+---
+
+As I write this post, a day will have also passed. With that stated, I will be updating my current setup back to my previous laptop, the Dell Latitude e6725. This laptop should be put in a museum, after all the brutal slaughter it took from my abuse of it. I literally have had this laptop ran over by a car and it still works. The only thing that doesn't work is the LCD Display, which I find to be a shocker in my opinion. Unfortunately with my trails and errors with the ASUS G75-JW, the computer proving more difficult to fix than it was feasible to use. This has peaked my interest in researching about the possible implementation and usage of a SBC (Single-Board Computer). An example of this would be the Raspberry Pi 4 and others.
+
+I spent the entire day trying to figure out how to add my M.2 Nvme SSD from the Lenovo laptop on top of my previous 965 GB SSD to no avail. So I decided to utilize the full capacity of my Dell Latitude and replace the DVD Optical Disk Drive with my HDD Replacement Optical Drive. Adding the additional storage of an old HDD, I found lying around.
+
+After doing so, I began to ticker with the different Linux Distro's I had on a multiboot usb drive I created. I really started thinking to myself that I could better utilize a VM for things of this nature. There are many solutions that need to be researched on a fuller basis so that I may properly crate a more efficient system of recovery. I first tried to install Manjaro, and realized that I didn't configure the GRUB the correct way. So

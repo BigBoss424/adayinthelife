@@ -1,0 +1,19 @@
+---
+layout: post
+title: Welcome to A day In The Life 
+date: 20-03-30 12:57:53 +0100
+categories: [A Day In The Life]
+
+---
+
+## Welcome to A Day In the Life Development Blog
+
+### Purpose 
+The purpose of this site is to create a community of developers 
+to help other developers out with their projects and knowledge
+seeking quest for the perfect API. 
+
+### Goals
+The goal of this site is to build a collection of tutorials to 
+begin the construction of library of everything that involves web
+development. 
