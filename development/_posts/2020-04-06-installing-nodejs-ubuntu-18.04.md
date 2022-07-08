@@ -2,7 +2,7 @@
 layout: post
 title: Installing Node.js | Ubuntu 18.04 LTS
 date: 2020-04-06
-categories: ubuntu, node.js, install-guide
+categories: [ubuntu, node.js, install-guide]
 ---
 
 # Installing Node.js on Ubuntu 18.04 LTS

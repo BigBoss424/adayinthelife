@@ -7,8 +7,8 @@ permalink: /Links/
 ---
 
 ## Professional Sites
-   * [Equity Publishing](https://www.eqpublishing.tk/ "Equity Publishing")
-   * [North Idaho Star](https://www.northidahostar.ml/ "North Star Idaho")
+   * [Equity Publishing](https://bigboss424.github.io/eqpublishing "Equity Publishing")
+   * [North Idaho Star](https://bigboss424.github.io/northstaridaho "North Star Idaho")
    * [Cogs Web Development and Hosting](https://www.cogswebdevanhosting.ml "Cogs Web Development and Hosting")
    
 ## Personal Sites

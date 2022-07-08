@@ -4,4 +4,4 @@ title: /archive
 permalink: /archive/
 ---
 # Archive
-This page is the Archive page for my blogs.
+This page is the Archive page for my blog posts. 
