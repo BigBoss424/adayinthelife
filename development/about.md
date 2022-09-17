@@ -1,0 +1,11 @@
+---
+title: "/about"
+layout: page
+permalink: "/about/"
+---
+
+# About
+
+This blog is about my daily lessons, practices and coding that will help me develop the necessary skills to build, design and develop new and exciting software. 
+
+Mostly will be random blurbs about programming and stuff that mattered to me in the day.

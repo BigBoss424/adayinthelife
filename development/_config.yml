@@ -1,0 +1,24 @@
+# Example Site settings
+
+google_analytics: UA-129028860-10
+
+title: A Day In The Life
+
+header_pages:
+ - index.md
+ - about.md
+ - archive.md
+ - contact.md
+ - links.md
+
+footer: 'follow me on <a href="https://www.github.com/bigboss424">Github</a>'
+
+#style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-archives
+  #- jekyll-admin
