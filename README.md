@@ -1,3 +1,4 @@
+
 # A Day In The Life
 
 This blog is going to be my first personal blog in order for me to express my daily lessons that I learn throughout my time and life. I am learning how to be a better web developer and software developer, with aspirations of becoming a full-stack developer utilizing a variety of web stacks and technology. 
@@ -12,3 +13,4 @@ Learning how to use and utilize Markdown in my writing of documentation and blog
 ### Implemetation 
 
 I will be utilizing Github Pages, as my means for hosting the blog and will be learning new techniques such as Github Actions to create a automated workflow as much as possible. 
+
